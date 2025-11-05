@@ -78,13 +78,6 @@ A cross-platform web and mobile logistics solution for real-time delivery tracki
 
 ---
 
-### ✍️ Latest Articles
-- [Building a Salary Advance Feature in React Native](#)
-- [Improving Form Validation with Formik and Yup](#)
-- [Handling API State Like a Pro with React Query](#)
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
